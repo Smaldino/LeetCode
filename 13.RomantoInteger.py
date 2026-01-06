@@ -30,4 +30,3 @@ class Solution(object):
                 total += roman_nums[one_char]
                 i+=1
         return total
-         

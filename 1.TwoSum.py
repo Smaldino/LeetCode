@@ -7,5 +7,3 @@ class Solution(object):
                 return [ seen[complement], idx ]
             seen[num] = idx
         return []
-    
-    
